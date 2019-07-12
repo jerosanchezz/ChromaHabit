@@ -1,4 +1,4 @@
-# ChromaHabit
+# The habit calendar
 
 Accomplish your habits one day at a time! Simply create a habit and check it off any day you’ve completed it. Track your progress with a colorful calendar. The more you do, the more colorful it becomes!
 

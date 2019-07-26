@@ -1,6 +1,10 @@
-# The habit calendar
+Habit Calendar is a free and simple habit tracker app. You can add and track as many habits as you need, and commit to each habit by setting a challenge of days to be completed. Habit Calendar also lets you choose the times of the day you wish to get reminded about your new habits.
 
-Accomplish your habits one day at a time! Simply create a habit and check it off any day you’ve completed it. Track your progress with a colorful calendar. The more you do, the more colorful it becomes!
+Main features:
+- You can add as many habits as you need.
+- Commit to your habits by beginning a new challenge of days.
+- Track the progress of each one of your habits and challenges.
+- Configure the times of the day you'd like to be reminded of your habits.	
 
 # Contact Me
 
